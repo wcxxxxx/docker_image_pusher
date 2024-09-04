@@ -1,1 +1,2 @@
 alxchk/pupy:unstable
+amilys/embyserver:latest
