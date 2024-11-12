@@ -1,2 +1,3 @@
 alxchk/pupy:unstable
 amilys/embyserver:latest
+youshandefeiyang/allinone:latest
